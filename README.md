@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 Clone the repository:
 
-git clone https://github.com/yourusername/gen-ai-summary-app.git
+git clone https://github.com/DhanushRathod15/Text-Summarization.git
 
 Navigate to the project directory:
 
